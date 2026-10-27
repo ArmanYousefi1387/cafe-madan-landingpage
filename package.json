@@ -1,0 +1,7 @@
+{
+ "name":"cafemadan-event-invitation",
+ "private":true,
+ "version":"12.0.0",
+ "type":"module",
+ "scripts":{"start":"npx serve ."}
+}
